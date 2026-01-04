@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🛡️ SENTRA Anti-Cheat Research Project
 
-<!--
-**sentra-research-project/sentra-research-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Securing the Apocalypse in Project Zomboid
 
-Here are some ideas to get you started:
+Welcome to the official repository of **SENTRA**. We are a dedicated team of developers and researchers focused on analyzing game mechanics, identifying vulnerabilities, and creating robust anti-cheat solutions for the Project Zomboid community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What we do
+* **Anti-Cheat Development:** analyzing memory and Lua injection vectors to prevent cheating.
+* **Modding:** Creating utility and gameplay mods to enhance the survival experience.
+* **Security Research:** Documenting exploits to help server owners protect their communities.
+
+### 🛠️ Tech Stack
+* **Languages:** Lua, Java, C++
+* **Focus:** Reverse Engineering, Network Security, Game Logic
+
+---
+
+📫 **Contact us:** [Discord Linkiniz] | [Web Siteniz]
