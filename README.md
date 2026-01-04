@@ -17,4 +17,5 @@ Welcome to the official repository of **SENTRA**. We are a dedicated team of dev
 
 ---
 
-📫 **Contact us:** [ed.husserl] |
+📫 **Contact us:** 
+    Discord: ed.husserl
